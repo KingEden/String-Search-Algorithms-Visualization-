@@ -1,0 +1,11 @@
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\bin\Debug\Search Algorithms Visualisation.exe.config
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\bin\Debug\Search Algorithms Visualisation.exe
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\bin\Debug\Search Algorithms Visualisation.pdb
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search Algorithms Visualisation.csproj.AssemblyReference.cache
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search Algorithms Visualisation.csproj.SuggestedBindingRedirects.cache
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search_Algorithms_Visualisation.Properties.Resources.resources
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search_Algorithms_Visualisation.Search.resources
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search Algorithms Visualisation.csproj.GenerateResource.cache
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search Algorithms Visualisation.csproj.CoreCompileInputs.cache
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search Algorithms Visualisation.exe
+C:\Users\uzair\source\repos\Search Algorithms Visualisation\Search Algorithms Visualisation\obj\Debug\Search Algorithms Visualisation.pdb
